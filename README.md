@@ -13,9 +13,9 @@ No installation is required as long as you can execute the Jupyter notebooks in 
 
 # Project Overview
 In this project, I want to find the answers to these following 3 questions:
-1/ What are the most successful movie genres over the recent years?
-2/ Who produced the most successful movies?
-3/ Does a high viewer rating ensures the profitability of a movie?
+1/ What are the most successful movie genres over the recent years? <br>
+2/ Who produced the most successful movies? <br>
+3/ Does a high viewer rating ensures the profitability of a movie? <br>
 
 # File Descriptions
 + "movie_dataset.csv": a CSV file containing the Movies dataset
